@@ -1,11 +1,11 @@
 <!-- ───────────── PROFILE CARD ───────────── -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Arthur Lima profile card"/>
+  <img src="./banner.svg" width="100%" alt="Arthur Lima profile card"/>
 </p>
 
 <!-- ───────────── ENCODED NAME (animated) ───────────── -->
 <p align="center">
-  <img src="./assets/name-decode.svg" width="100%" alt="ARTHUR LIMA, an animated decoding effect"/>
+  <img src="./name-decode.svg" width="100%" alt="ARTHUR LIMA, an animated decoding effect"/>
 </p>
 
 <p align="center">
