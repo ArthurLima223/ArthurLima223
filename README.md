@@ -33,7 +33,6 @@ Hey, I'm Arthur! I'm a Systems Development student at **ETEC**, and I'm at the v
 | **BASED** | Brazil 🇧🇷 |
 | **FOCUS** | Python & programming logic |
 | **GOAL** | My first opportunity in tech |
-| **OFF-DUTY** | Games and technology 🎮 |
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArthurLima223&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&rank_icon=github" height="170" alt="GitHub stats"/>
