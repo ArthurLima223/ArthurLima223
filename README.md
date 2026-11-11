@@ -70,7 +70,7 @@ Hey, I'm Arthur! I'm a Systems Development student at **ETEC**, and I'm at the v
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurLima223/ArthurLima223/output/github-snake-dark.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ArthurLima223/ArthurLima223/output/github-snake.svg" width="100%"/>
+    <img alt="![Contribution snake](https://raw.githubusercontent.com/ArthurLima223/ArthurLima223/output/github-snake-dark.svg)" width="100%"/>
   </picture>
 </p>
 
