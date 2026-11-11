@@ -35,8 +35,17 @@ Hey, I'm Arthur! I'm a Systems Development student at **ETEC**, and I'm at the v
 | **GOAL** | My first opportunity in tech |
 
 <div align="center">
-  <img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>
-  <img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
+  <img
+    src="https://ghstats.dev/api/card?username=ArthurLima223&theme=dracula&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://ghstats.dev/api/langs?username=ArthurLima223&theme=dracula&layout=compact&max_langs=5&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </div>
 
 <p align="center"><code>─────────── ◇ ───────────</code></p>
