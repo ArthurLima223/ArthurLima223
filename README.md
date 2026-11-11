@@ -31,12 +31,21 @@ Hey, I'm Arthur! I'm a Systems Development student at **ETEC**, and I'm at the v
 |:--|:--|
 | **ROLE** | Systems Development student |
 | **BASED** | Brazil 🇧🇷 |
-| **FOCUS** | Python & programming logic |
+| **work** | Python developer |
 | **GOAL** | My first opportunity in tech |
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurLima223&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&rank_icon=github" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLima223&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="170" alt="Top languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ArthurLima223&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&rank_icon=github"
+    height="165"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLima223&layout=compact&langs_count=5&theme=dracula&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
 </div>
 
 <p align="center"><code>─────────── ◇ ───────────</code></p>
