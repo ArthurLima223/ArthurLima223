@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="240" viewBox="0 0 850 240" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f766e"/><stop offset=".55" stop-color="#0b3b46"/><stop offset="1" stop-color="#1e4f9a"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c3a3b"/><stop offset=".5" stop-color="#08242b"/><stop offset="1" stop-color="#0a2540"/></linearGradient>
+<radialGradient id="glow1" cx=".15" cy=".1" r=".6"><stop offset="0" stop-color="#2dd4bf" stop-opacity=".35"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx=".95" cy=".95" r=".6"><stop offset="0" stop-color="#3b82f6" stop-opacity=".35"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+<linearGradient id="av" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fde68a"/><stop offset="1" stop-color="#fb923c"/></linearGradient>
+</defs>
+<rect width="850" height="240" rx="18" fill="url(#bg)"/>
+<rect x="26" y="26" width="798" height="188" rx="22" fill="url(#card)" stroke="#2dd4bf" stroke-opacity=".45"/>
+<rect x="26" y="26" width="798" height="188" rx="22" fill="url(#glow1)"/>
+<rect x="26" y="26" width="798" height="188" rx="22" fill="url(#glow2)"/>
+
+<!-- avatar (swap for your photo, see README note) -->
+<circle cx="96" cy="97" r="51" fill="none" stroke="#2dd4bf" stroke-width="3"/>
+<circle cx="96" cy="97" r="46" fill="url(#av)"/>
+<text x="96" y="115" text-anchor="middle" font-size="50" font-weight="800" fill="#7c2d12">A</text>
+
+<!-- handle + sweep line -->
+<text x="168" y="70" font-size="13" font-weight="700" letter-spacing="3" fill="#5eead4">@ARTHURLIMA223</text>
+<path d="M168 62 Q 300 40 412 78" fill="none" stroke="#5eead4" stroke-opacity=".5" stroke-width="1.5" stroke-dasharray="260" stroke-dashoffset="260">
+<animate attributeName="stroke-dashoffset" values="260;0;0;260" keyTimes="0;.4;.8;1" dur="6s" repeatCount="indefinite"/></path>
+
+<text x="166" y="122" font-size="56" font-weight="800" fill="#c8fff4">Arthur Lima</text>
+<text x="168" y="148" font-size="16" fill="#99f6e4">Every big project starts with a tiny “Hello World”.</text>
+<rect x="46" y="166" width="104" height="30" rx="15" fill="#0f3d3e" fill-opacity=".55" stroke="#2dd4bf" stroke-opacity=".45"/><text x="98.0" y="186" text-anchor="middle" font-size="13" font-weight="700" fill="#e6fffb">Python</text><rect x="162" y="166" width="104" height="30" rx="15" fill="#0f3d3e" fill-opacity=".55" stroke="#2dd4bf" stroke-opacity=".45"/><text x="214.0" y="186" text-anchor="middle" font-size="13" font-weight="700" fill="#e6fffb">Java</text><rect x="278" y="166" width="104" height="30" rx="15" fill="#0f3d3e" fill-opacity=".55" stroke="#2dd4bf" stroke-opacity=".45"/><text x="330.0" y="186" text-anchor="middle" font-size="13" font-weight="700" fill="#e6fffb">PHP</text><rect x="394" y="166" width="104" height="30" rx="15" fill="#0f3d3e" fill-opacity=".55" stroke="#2dd4bf" stroke-opacity=".45"/><text x="446.0" y="186" text-anchor="middle" font-size="13" font-weight="700" fill="#e6fffb">Node.js</text><rect x="510" y="166" width="104" height="30" rx="15" fill="#0f3d3e" fill-opacity=".55" stroke="#2dd4bf" stroke-opacity=".45"/><text x="562.0" y="186" text-anchor="middle" font-size="13" font-weight="700" fill="#e6fffb">TypeScript</text>
+
+<!-- right stat -->
+<text x="722" y="112" text-anchor="middle" font-size="38" font-weight="800" fill="#5eead4">ETEC</text>
+<text x="722" y="134" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="3" fill="#99f6e4">SYSTEMS DEV</text>
+<circle cx="654" cy="129" r="3" fill="#2dd4bf"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="810" y="206" text-anchor="end" font-size="10" fill="#5eead4" fill-opacity=".7">ArthurLima223 · profile card</text>
+</svg>
