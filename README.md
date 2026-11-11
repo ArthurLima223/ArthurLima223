@@ -44,7 +44,7 @@ Hey, I'm Arthur! I'm a Systems Development student at **ETEC**, and I'm at the v
 ## 🎨 Production palette
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,nodejs,ts,git,github,vscode&theme=dark" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,java,php,nodejs,ts,git,github,&theme=dark" alt="Tech stack"/>
 </p>
 
 <p align="center"><sub>Python · Java · PHP · Node.js · TypeScript — tools picked for the job, not for the hype.</sub></p>
